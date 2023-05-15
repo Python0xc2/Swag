@@ -1,1 +1,11 @@
-swagger: '2.0' info: version: "0.0.1" title: Support your local description: <img src=x onerror="alert('Jebsec')"> paths: /: get: responses: 200: description: Successful response
+swagger: '2.0'
+info:
+  version: "0.0.1"
+  title: Support your local
+  description: "<img src=x onerror=\"alert('Jebsec')\">"
+paths:
+  /:
+    get:
+      responses:
+        200:
+          description: Successful response
