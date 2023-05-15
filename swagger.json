@@ -1,4 +1,5 @@
-swagger: '2.0'
+{
+  swagger: '2.0'
 info:
   version: "0.0.1"
   title: Support your local
@@ -9,3 +10,4 @@ paths:
       responses:
         200:
           description: Successful response
+}
